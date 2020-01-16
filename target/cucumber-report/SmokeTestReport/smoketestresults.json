@@ -1,0 +1,105 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Hotel reservation booking",
+        "description": "",
+        "id": "hotel-booking-website;hotel-reservation-booking",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "I am on hotel booking website",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "I should see the page title",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "Populating customer details",
+        "description": "",
+        "id": "hotel-booking-website;populating-customer-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I enter the following customer details",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "Firstname",
+                  "Surname",
+                  "Price",
+                  "Check-in",
+                  "Check-out"
+                ],
+                "line": 10
+              },
+              {
+                "cells": [
+                  "Ola",
+                  "Oladeni",
+                  "100",
+                  "2020-01-14",
+                  "2020-01-14"
+                ],
+                "line": 11
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "I click save button",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "I should see the captured customer details on display",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Hotel booking website",
+    "description": "",
+    "id": "hotel-booking-website",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/hotelBooking.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Hotel"
+      }
+    ]
+  }
+]

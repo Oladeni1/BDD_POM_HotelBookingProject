@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="47.841518">
+<testcase classname="Hotel booking website" name="Access to hotel reservation booking page" time="18.876849">
+<system-out><![CDATA[Given I am on hotel booking website.........................................passed
+Then I should see the page title............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Hotel booking website" name="Populating customer details save and delete record" time="28.964669">
+<system-out><![CDATA[And I enter firstname as "Ola"..............................................passed
+And I enter surname as "Manchester".........................................passed
+And I enter price as "100"..................................................passed
+And I enter checkin as "2020-01-14".........................................passed
+And I enter checkout as "2020-01-25"........................................passed
+And I scroll the page down..................................................passed
+And I click save button.....................................................passed
+Then I should delete the captured customer details on the display...........passed
+And I close the browser.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

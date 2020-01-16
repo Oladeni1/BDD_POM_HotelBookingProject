@@ -1,0 +1,221 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Access to hotel reservation booking page",
+        "description": "",
+        "id": "hotel-booking-website;access-to-hotel-reservation-booking-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18489971700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am on hotel booking website",
+            "match": {
+              "location": "HotelBookingStepDef.i_am_on_hotel_booking_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 386877200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I should see the page title",
+            "match": {
+              "location": "HotelBookingStepDef.i_should_see_the_page_title()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Populating customer details save and delete record",
+        "description": "",
+        "id": "hotel-booking-website;populating-customer-details-save-and-delete-record;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 368114400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter firstname as \"Ola\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ola",
+                  "offset": 22
+                }
+              ],
+              "location": "HotelBookingStepDef.i_enter_firstname_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 270518700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter surname as \"Manchester\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Manchester",
+                  "offset": 20
+                }
+              ],
+              "location": "HotelBookingStepDef.i_enter_surname_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 137176100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter price as \"100\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "100",
+                  "offset": 18
+                }
+              ],
+              "location": "HotelBookingStepDef.i_enter_price_as(String)"
+            },
+            "matchedColumns": [
+              2
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1704009100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I enter checkin as \"2020-01-14\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2020-01-14",
+                  "offset": 20
+                }
+              ],
+              "location": "HotelBookingStepDef.i_enter_checkin_as(String)"
+            },
+            "matchedColumns": [
+              3
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 302926100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter checkout as \"2020-01-25\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2020-01-25",
+                  "offset": 21
+                }
+              ],
+              "location": "HotelBookingStepDef.i_enter_checkout_as(String)"
+            },
+            "matchedColumns": [
+              4
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 26654300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I scroll the page down",
+            "match": {
+              "location": "HotelBookingStepDef.i_scroll_the_page_down()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5168936800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click save button",
+            "match": {
+              "location": "HotelBookingStepDef.i_click_save_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 701159500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I should delete the captured customer details on the display",
+            "match": {
+              "location": "HotelBookingStepDef.i_should_delete_the_captured_customer_details_on_the_display()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 20285173600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I close the browser",
+            "match": {
+              "location": "HotelBookingStepDef.i_close_the_browser()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@Hotel"
+          }
+        ]
+      }
+    ],
+    "name": "Hotel booking website",
+    "description": "",
+    "id": "hotel-booking-website",
+    "keyword": "Feature",
+    "uri": "C:/Users/olatu/Desktop/Automation/Hotel_Booking_Project/src/test/java/Features/HotelBooking.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Hotel"
+      }
+    ]
+  }
+]
