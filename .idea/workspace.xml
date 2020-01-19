@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9690dbca-b7b0-4223-85f6-4c62880990c7" name="Default Changelist" comment="" />
+    <list default="true" id="9690dbca-b7b0-4223-85f6-4c62880990c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json_output/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/json_output/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit_xml/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit_xml/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/RunSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/RunSmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.html.report/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.html.report/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunner/RunSmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunner/RunSmokeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-outout/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-outout/report.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner/RunSmokeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinition/HotelBookingStepDef.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="477">
-              <caret line="79" column="38" lean-forward="true" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+              <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/HotelBookingPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="148">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,10 +94,10 @@
         <option value="$PROJECT_DIR$/src/test/java/com/stepDefinition/HotelBookingStepDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/Pages/HotelBookingPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/StepDefinition/HotelBookingStepDef.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestRunner/RunSmokeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StepDefinition/HotelBookingStepDef.java" />
         <option value="$PROJECT_DIR$/src/test/java/Features/HotelBooking.feature" />
         <option value="$PROJECT_DIR$/src/test/java/Pages/HotelBookingPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestRunner/RunSmokeTest.java" />
       </list>
     </option>
   </component>
@@ -103,7 +112,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="540" />
     <option name="width" value="794" />
     <option name="height" value="735" />
@@ -139,6 +148,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Hotel_Booking_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hotel_Booking_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Features" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579153835708" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579420481191" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
@@ -258,15 +275,17 @@
       <option name="presentableId" value="Default" />
       <updated>1579028108759</updated>
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1579153983145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579153983146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunSmokeTest_(1) - 2020.01.16 at 04h 36m 55s.xml">
-      <configuration name="RunSmokeTest (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunSmokeTest_(1) - 2020.01.16 at 04h 51m 51s.xml">
-      <configuration name="RunSmokeTest (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunSmokeTest_(1) - 2020.01.16 at 04h 54m 28s.xml">
       <configuration name="RunSmokeTest (1)" configurationId="JUnit" />
     </history-entry>
@@ -291,21 +310,28 @@
     <history-entry file="RunSmokeTest_(1) - 2020.01.16 at 05h 27m 09s.xml">
       <configuration name="RunSmokeTest (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunSmokeTest_(1) - 2020.01.19 at 07h 48m 30s.xml">
+      <configuration name="RunSmokeTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunSmokeTest_(1) - 2020.01.19 at 07h 53m 28s.xml">
+      <configuration name="RunSmokeTest (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="0" width="794" height="735" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.32561308" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18078668" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32786885" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32459018" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32786885" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.76065576" />
@@ -359,6 +385,10 @@
       <window_info anchor="right" id="Maven" order="9" weight="0.32980332" />
     </layout-to-restore>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -378,10 +408,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner/RunSmokeTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/HotelBookingPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="148">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -391,7 +421,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/StepDefinition/HotelBookingStepDef.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
-          <caret line="79" column="38" lean-forward="true" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+          <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -405,10 +435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/HotelBookingPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner/RunSmokeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

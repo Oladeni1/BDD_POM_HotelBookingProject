@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 18489971700,
+              "duration": 26246688799,
               "status": "passed"
             },
             "line": 5,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 386877200,
+              "duration": 144197901,
               "status": "passed"
             },
             "line": 6,
@@ -46,7 +46,7 @@
         "steps": [
           {
             "result": {
-              "duration": 368114400,
+              "duration": 279819900,
               "status": "passed"
             },
             "line": 9,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 270518700,
+              "duration": 295962800,
               "status": "passed"
             },
             "line": 10,
@@ -88,7 +88,7 @@
           },
           {
             "result": {
-              "duration": 137176100,
+              "duration": 149993900,
               "status": "passed"
             },
             "line": 11,
@@ -109,7 +109,7 @@
           },
           {
             "result": {
-              "duration": 1704009100,
+              "duration": 744015800,
               "status": "passed"
             },
             "line": 12,
@@ -130,7 +130,7 @@
           },
           {
             "result": {
-              "duration": 302926100,
+              "duration": 454369400,
               "status": "passed"
             },
             "line": 13,
@@ -151,7 +151,7 @@
           },
           {
             "result": {
-              "duration": 26654300,
+              "duration": 31048600,
               "status": "passed"
             },
             "line": 14,
@@ -163,7 +163,7 @@
           },
           {
             "result": {
-              "duration": 5168936800,
+              "duration": 1126538301,
               "status": "passed"
             },
             "line": 15,
@@ -175,7 +175,7 @@
           },
           {
             "result": {
-              "duration": 701159500,
+              "duration": 4353668800,
               "status": "passed"
             },
             "line": 16,
@@ -187,7 +187,7 @@
           },
           {
             "result": {
-              "duration": 20285173600,
+              "duration": 4422851600,
               "status": "passed"
             },
             "line": 17,
@@ -210,7 +210,7 @@
     "description": "",
     "id": "hotel-booking-website",
     "keyword": "Feature",
-    "uri": "C:/Users/olatu/Desktop/Automation/Hotel_Booking_Project/src/test/java/Features/HotelBooking.feature",
+    "uri": "src/test/java/Features/HotelBooking.feature",
     "tags": [
       {
         "line": 1,

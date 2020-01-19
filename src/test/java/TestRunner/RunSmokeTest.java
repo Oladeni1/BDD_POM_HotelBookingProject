@@ -5,7 +5,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features="C:\\Users\\olatu\\Desktop\\Automation\\Hotel_Booking_Project\\src\\test\\java\\Features\\HotelBooking.feature",
+@CucumberOptions(features="src\\test\\java\\Features\\HotelBooking.feature",
         glue={"StepDefinition"},
         format= {"pretty","html:test-outout","html:target/cucumber.html.report","json:json_output/cucumber.json", "junit:junit_xml/cucumber.xml"}, //to generate different types of reporting
         monochrome = false, //display the console output in a proper readable format

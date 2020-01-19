@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="47.841518">
-<testcase classname="Hotel booking website" name="Access to hotel reservation booking page" time="18.876849">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="38.249156">
+<testcase classname="Hotel booking website" name="Access to hotel reservation booking page" time="26.390887">
 <system-out><![CDATA[Given I am on hotel booking website.........................................passed
 Then I should see the page title............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Hotel booking website" name="Populating customer details save and delete record" time="28.964669">
+<testcase classname="Hotel booking website" name="Populating customer details save and delete record" time="11.858269">
 <system-out><![CDATA[And I enter firstname as "Ola"..............................................passed
 And I enter surname as "Manchester".........................................passed
 And I enter price as "100"..................................................passed

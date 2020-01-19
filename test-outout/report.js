@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/olatu/Desktop/Automation/Hotel_Booking_Project/src/test/java/Features/HotelBooking.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("src/test/java/Features/HotelBooking.feature");
 formatter.feature({
   "line": 2,
   "name": "Hotel booking website",
@@ -34,14 +34,14 @@ formatter.match({
   "location": "HotelBookingStepDef.i_am_on_hotel_booking_website()"
 });
 formatter.result({
-  "duration": 18489971700,
+  "duration": 26246688799,
   "status": "passed"
 });
 formatter.match({
   "location": "HotelBookingStepDef.i_should_see_the_page_title()"
 });
 formatter.result({
-  "duration": 386877200,
+  "duration": 144197901,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -212,7 +212,7 @@ formatter.match({
   "location": "HotelBookingStepDef.i_enter_firstname_as(String)"
 });
 formatter.result({
-  "duration": 368114400,
+  "duration": 279819900,
   "status": "passed"
 });
 formatter.match({
@@ -225,7 +225,7 @@ formatter.match({
   "location": "HotelBookingStepDef.i_enter_surname_as(String)"
 });
 formatter.result({
-  "duration": 270518700,
+  "duration": 295962800,
   "status": "passed"
 });
 formatter.match({
@@ -238,7 +238,7 @@ formatter.match({
   "location": "HotelBookingStepDef.i_enter_price_as(String)"
 });
 formatter.result({
-  "duration": 137176100,
+  "duration": 149993900,
   "status": "passed"
 });
 formatter.match({
@@ -251,7 +251,7 @@ formatter.match({
   "location": "HotelBookingStepDef.i_enter_checkin_as(String)"
 });
 formatter.result({
-  "duration": 1704009100,
+  "duration": 744015800,
   "status": "passed"
 });
 formatter.match({
@@ -264,35 +264,35 @@ formatter.match({
   "location": "HotelBookingStepDef.i_enter_checkout_as(String)"
 });
 formatter.result({
-  "duration": 302926100,
+  "duration": 454369400,
   "status": "passed"
 });
 formatter.match({
   "location": "HotelBookingStepDef.i_scroll_the_page_down()"
 });
 formatter.result({
-  "duration": 26654300,
+  "duration": 31048600,
   "status": "passed"
 });
 formatter.match({
   "location": "HotelBookingStepDef.i_click_save_button()"
 });
 formatter.result({
-  "duration": 5168936800,
+  "duration": 1126538301,
   "status": "passed"
 });
 formatter.match({
   "location": "HotelBookingStepDef.i_should_delete_the_captured_customer_details_on_the_display()"
 });
 formatter.result({
-  "duration": 701159500,
+  "duration": 4353668800,
   "status": "passed"
 });
 formatter.match({
   "location": "HotelBookingStepDef.i_close_the_browser()"
 });
 formatter.result({
-  "duration": 20285173600,
+  "duration": 4422851600,
   "status": "passed"
 });
 });
